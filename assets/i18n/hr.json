@@ -1,0 +1,118 @@
+{
+    "home": {
+        "welcome":"Dobrodošli",
+        "subtitle":"Saznajte više o nama!"
+    },
+
+    "header": {
+        "subtitle1":"Početna",
+        "subtitle2":"O nama",
+        "subtitle3":"Tim",
+        "subtitle4":"Projekti",
+        "subtitle5":"Kontakt"
+    },
+
+    "about": {
+        "title":"O nama",
+        "text1":"DRS je tim strastvenih inženjera koji vole razvijati nove, inovativne proizvode. Nudimo razne digitalne usluge, od izrade jednostavnijih aplikacija pa do kompleksnijih softvera. Ako ste zainteresirani za suradnju, slobodno nas kontaktirajte!",
+        "usluge_subtitle":"Naše usluge",
+        "usluge1":"Razvoj web aplikacija",
+        "usluge2":"Razvoj dekstop aplikacija",
+        "usluge3":"Konfiguracija i održavanje baza podataka",
+        "usluge4":"Softverska obrada podataka",
+        "usluge5":"Cloud računarstvo",
+        "usluge6":"Izrada web stranica",
+        "usluge7":"Podrška i održavanje softvera",
+        "usluge8":"Itd.",
+        "usluge_subtitle2":"TEHNOLOGIJE",
+        "text2":"Naš tim trenutno čine dva inženjera.",
+        "text3":"Naša vizija razvoja poslovanja je u dizajniranju digitalnih proizvoda s jasnim ciljem donošenja eksponencijalne dodatne vrijednosti našim klijentima. U budućnosti se također planiramo proširiti na područje industrijske automatizacije i robotike, s ciljem kombiniranja automatizacije s rastućim web tehnologijama."
+    },
+
+
+
+
+    "team": {
+      "title": "TIM",
+      "mateo": {
+        "tech1":"Softverski inženjer",
+        "tech2":"Entuzijast za moderne IT tehnologije, iskusan u izradi kompleksnih web sustava",
+        "tech3":"Primarno područje: izrada web aplikacija",
+        "tech4":"Java, Scala",
+        "tech5":"Javascript, Typescript, Html, Css",
+        "tech6":"Spring, Spring Boot, Angular, React",
+        "tech7":"Upravljanje bazama podataka, SQL",
+        "tech8":"DevOps administracija, itd."
+      },
+      "damian": {
+        "tech1":"Inženjer mehatronike i robotike",
+        "tech2":"Zainteresiran za industrijsku robotiku, iskusan u digitalnoj transformaciji proizvodnih tvrtka",
+        "tech3":"Primarno prodručje: voditelj projekata i python programer",
+        "tech4":"Python desktop aplikacije",
+        "tech5":"Django web aplikacije",
+        "tech6":"Kivy android aplikacije",
+        "tech7":"SQL baze podataka",
+        "tech8":"Web stranice, itd."
+      }
+    },
+
+
+    "projects": {
+        "title":"Projekti",
+        "IPC":{
+          "subtitle":"Softver za vođenje projektnog ureda",
+          "bullet1":"sustav autentifikacije",
+          "bullet2":"autorizacija temeljena na dodijeljenim ulogama",
+          "bullet3":"upravljanje zaposlenicima",
+          "bullet4":"upravljanje projektima",
+          "bullet5":"upravljanje financijama",
+          "bullet6":"analiza radnika (efikasnost, utrošeno vrijeme)",
+          "bullet7":"upravljanje zahtjevima za GO i putnim nalozima",
+          "bullet8":"interna komunikacija na projektima",
+          "bullet9":"sustav obavijesti",
+          "bullet10":"user-friendly korisničko sučelje",
+          "bullet11":"Itd.",
+          "button":"Saznajte više!"
+        },
+
+        "PASTOR":{
+          "subtitle":"Softver za praćenje i obradu podataka proizvodnje vatrogasnih aparata",
+          "bullet1":"dnevno praćenje proizvodnje",
+          "bullet2":"dnevni unosi radnika putem android tableta",
+          "bullet3":"nadzor proizvodnje u realnom vremenu",
+          "bullet4":"desktop aplikacija i mobilna android aplikacija za pristup podacima",
+          "bullet5":"relevantni podaci o stanju proizvodnje (efikasnost, normativi, kapacitet itd.)",
+          "bullet6":"analiza kontrole kvalitete",
+          "bullet7":"integracija s softverom za planiranje proizvodnje",
+          "bullet8":"praćenje nabavnog lanca i izračun potrebnih sirovina za proizvodnju",
+          "bullet9":"praćenje troškova sirovina za izradu proizvoda",
+          "bullet10":"izračun efikasnosti isporuka radnih naloga",
+          "bullet11":"Itd.",
+          "button":"Saznajte više!"
+        },
+
+        "SMILE_DENT":{
+          "subtitle":"Softver za vođenje dentalnog laboratorija",
+          "bullet1":"upravljanje radnim nalozima",
+          "bullet2":"autorizacija temeljena na dodijeljenim ulogama",
+          "bullet3":"praćenje proizvodnje na dnevnoj bazi",
+          "bullet4":"upravljanje financijama",
+          "bullet5":"obračun i upravljanje plaćama prema odrađenim komadima",
+          "bullet6":"praćenje sirovina",
+          "bullet7":"upravljanje lancem nabave",
+          "bullet8":"potpuno prilagodljiv softver za bilo koji dentalni laboratorij",
+          "bullet9":"Itd.",
+          "button":"Saznajte više!"
+        }
+    },
+
+
+    "contactForm": {
+        "title":"Kontakt",
+        "text1":"Ako ste zainteresirani za naše usluge, više informacija ili bilo kakvu suradnju, kontaktirajte nas putem donjeg obrasca.",
+        "text2":"Digitalizirajmo Vaše poslovanje!",
+        "name":"Ime",
+        "message":"Poruka",
+        "submit":"Pošalji"
+    }
+}
