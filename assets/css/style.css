@@ -1,7 +1,9 @@
 .razmakic{
   padding-bottom: 5%;
 }
-
+.nav-link{
+  font-size: 28px;
+}
 .contact{
   display: block;
   margin-left: auto;
@@ -206,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   font-family: "Poppins", sans-serif;
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   padding: 0 4px;
   white-space: nowrap;
   transition: 0.3s;
@@ -349,7 +351,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
-  font-size: 15px;
+  font-size: 17px;
   color: #666666;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
@@ -566,13 +568,13 @@ section {
   margin-top: 3%;
 }
 #about .slika{
-  max-width: 500px;
+  max-width: 480px;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding-right: auto;
   padding-left: auto;
-  margin-top: 2%;
+  margin-top: 1%;
 }
 #about .picture_soft{
   max-width: 740px;
@@ -611,7 +613,7 @@ section {
 }
 @media (max-width: 380px) {
   #about .slika{
-    max-width: 310px;
+    max-width: 300px;
   }
 }
 @media (min-width: 420px) and (max-width: 920px) {
@@ -626,7 +628,7 @@ section {
     max-width: 400px;
   }
 }
-@media (min-width: 920px) and (max-width: 1281px) {
+@media (min-width: 920px) and (max-width: 1250px) {
   #about .picture_soft{
     max-width: 550px;
     display: block;
@@ -635,7 +637,19 @@ section {
   }
   #about .slika{
     max-width: 400px;
-    margin-top: 22%;
+    margin-top: 15%;
+  }
+}
+@media (min-width: 1251px) and (max-width: 1281px) {
+  #about .picture_soft{
+    max-width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #about .slika{
+    max-width: 450px;
+    margin-top: 4%;
   }
 }
 @media (min-width: 420px) and (max-width: 820px) {
@@ -665,7 +679,7 @@ section {
     padding: 25% 0;
   }
   #about .slika{
-    max-width: 340px;
+    max-width: 330px;
   }
   #about .picture_soft{
     margin-left: 2%;
