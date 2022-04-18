@@ -1,0 +1,116 @@
+{
+    "home": {
+        "welcome":"Welcome",
+        "subtitle":"Find out more about us!"
+    },
+
+    "header": {
+        "subtitle1":"Home",
+        "subtitle2":"About",
+        "subtitle3":"Team",
+        "subtitle4":"Projects",
+        "subtitle5":"Contact"
+    },
+
+    "about": {
+        "title":"About",
+        "title2":"O nama",
+        "text1":"DRS is a team of passionate engineers who love to create and develop innovative products. We offer a number of digital services ranging from simple applications to complex web systems. If you're interested in collaboration, feel free to contact us!",
+        "usluge_subtitle":"Our services",
+        "usluge1":"Web development",
+        "usluge2":"Desktop App Development",
+        "usluge3":"Database Management",
+        "usluge4":"Data Analysis",
+        "usluge5":"Cloud Computing",
+        "usluge6":"Website Development",
+        "usluge7":"Software Support",
+        "usluge8":"Etc.",
+        "usluge_subtitle2":"TECHNOLOGY",
+        "text3":"Our mission is to develop business in designing digital products with a heavy focus on delivering exponential value to our clients. In the future, we plan to expand into the field of industrial automation and robotics, so we can combine them with ever-growing web technologies and offer them to our clients."
+    },
+
+
+    "team": {
+      "title": "TEAM",
+      "mateo": {
+        "tech1":"Software engineer",
+        "tech2":"Modern IT technology enthusiast with experience in building complex web systems",
+        "tech3":"Main occupation: web application development",
+        "tech4":"Java, Scala",
+        "tech5":"Javascript, Typescript, Html, Css",
+        "tech6":"Spring, Spring Boot, Angular, React",
+        "tech7":"Database management, SQL",
+        "tech8":"DevOps administration, etc."
+      },
+      "damian": {
+        "tech1":"Mechatronics and robotics engineer",
+        "tech2":"Industrial robotics enthusiast interested in digitally transforming manufacturing companies",
+        "tech3":"Main occupation: project manager and python developer",
+        "tech4":"Python desktop apps",
+        "tech5":"Django web apps",
+        "tech6":"Kivy android apps",
+        "tech7":"SQL databases",
+        "tech8":"Websites, etc."
+      }
+    },
+
+
+    "projects": {
+        "title":"Projects",
+        "IPC":{
+          "subtitle":"Project office management software",
+          "bullet1":"authentication system",
+          "bullet2":"role based authorization",
+          "bullet3":"user management",
+          "bullet4":"project management",
+          "bullet5":"finances management",
+          "bullet6":"employees analysis (efficiency, time spent)",
+          "bullet7":"vacation request and work travel management",
+          "bullet8":"internal project communication",
+          "bullet9":"notifications system",
+          "bullet10":"user-friendly interface design",
+          "bullet11":"Etc.",
+          "button":"Find out more!"
+        },
+
+        "PASTOR":{
+          "subtitle":"Monitoring and data processing software for fire extinguishers manufacturing process",
+          "bullet1":"daily production tracking",
+          "bullet2":"workers daily input via android tablets",
+          "bullet3":"real-time production monitoring",
+          "bullet4":"desktop and android application",
+          "bullet5":"production numbers (by type, period or buyer)",
+          "bullet6":"quality control analyses",
+          "bullet7":"integration with production planning software",
+          "bullet8":"supply chain monitoring and raw materials necessities calculations",
+          "bullet9":"products raw materials prices tracking",
+          "bullet10":"work orders efficiency and delivery calculations",
+          "bullet11":"Etc.",
+          "button":"Find out more!"
+        },
+
+        "SMILE_DENT":{
+          "subtitle":"Dental lab business management software",
+          "bullet1":"work orders management",
+          "bullet2":"role based authorization",
+          "bullet3":"tracking production on daily-basis",
+          "bullet4":"finances management",
+          "bullet5":"salaries calculations and management based on the job done",
+          "bullet6":"raw materials tracking",
+          "bullet7":"supply chain monitoring",
+          "bullet8":"fully customizable software to any dental lab",
+          "bullet9":"Etc.",
+          "button":"Find out more!"
+        }
+    },
+
+    "contactForm": {
+        "title":"Contact form",
+        "text1":"If you're interested in our services, more information, or any kind of collaboration, feel free to contact us.",
+        "text2":"Let's digitalize your business!",
+        "name":"Name",
+        "message":"Message",
+        "submit":"Submit",
+        "country":"Croatia"
+    }
+}
