@@ -14,6 +14,7 @@
 
     "about": {
         "title":"About",
+        "title2":"O nama",
         "text1":"DRS is a team of passionate engineers who love to create and develop innovative products. We offer a number of digital services ranging from simple applications to complex web systems. If you're interested in collaboration, feel free to contact us!",
         "usluge_subtitle":"Our services",
         "usluge1":"Web development",
@@ -25,7 +26,6 @@
         "usluge7":"Software Support",
         "usluge8":"Etc.",
         "usluge_subtitle2":"TECHNOLOGY",
-        "text2":"We are currently a team of two engineers.",
         "text3":"Our mission is to develop business in designing digital products with a heavy focus on delivering exponential value to our clients. In the future, we plan to expand into the field of industrial automation and robotics, so we can combine them with ever-growing web technologies and offer them to our clients."
     },
 
@@ -44,7 +44,7 @@
       },
       "damian": {
         "tech1":"Mechatronics and robotics engineer",
-        "tech2":"Industrial robotics enthusiast experienced in digitally transforming manufacturing companies",
+        "tech2":"Industrial robotics enthusiast interested in digitally transforming manufacturing companies",
         "tech3":"Main occupation: project manager and python developer",
         "tech4":"Python desktop apps",
         "tech5":"Django web apps",
@@ -110,6 +110,7 @@
         "text2":"Let's digitalize your business!",
         "name":"Name",
         "message":"Message",
-        "submit":"Submit"
+        "submit":"Submit",
+        "country":"Croatia"
     }
 }
