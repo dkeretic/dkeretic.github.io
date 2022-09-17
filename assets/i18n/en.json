@@ -14,8 +14,8 @@
 
     "about": {
         "title":"About",
-        "title2":"O nama",
-        "text1":"DRS is a team of passionate engineers who love to create and develop innovative products. We offer a number of digital services ranging from simple applications to complex web systems. If you're interested in collaboration, feel free to contact us!",
+        "title2":"Vision",
+        "text1":"DRS is a team of passionate engineers who love to create and develop innovative products. We offer a number of digital services ranging from simple applications to complex web systems. If you're interested in collaboration, one of our products, or partnership, feel free to contact us!",
         "usluge_subtitle":"Our services",
         "usluge1":"Web development",
         "usluge2":"Desktop App Development",
@@ -25,8 +25,9 @@
         "usluge6":"Website Development",
         "usluge7":"Software Support",
         "usluge8":"Etc.",
+        "usluge9":"Etc.",
         "usluge_subtitle2":"TECHNOLOGY",
-        "text3":"Our mission is to develop business in designing digital products with a heavy focus on delivering exponential value to our clients. In the future, we plan to expand into the field of industrial automation and robotics, so we can combine them with ever-growing web technologies and offer them to our clients."
+        "text3":"Our mission is to develop business in designing digital products with a heavy focus on delivering additional value to our clients. In the future, we plan to expand our portfolio of services to IoT, robotics, and automation. The goal is to bring modern technologies closer to those who don't even know they need them!"
     },
 
 
@@ -95,7 +96,7 @@
           "bullet2":"role based authorization",
           "bullet3":"tracking production on daily-basis",
           "bullet4":"finances management",
-          "bullet5":"salaries calculations and management based on the job done",
+          "bullet5":"paycheck calculations based on the job done",
           "bullet6":"raw materials tracking",
           "bullet7":"supply chain monitoring",
           "bullet8":"fully customizable software to any dental lab",

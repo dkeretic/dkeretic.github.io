@@ -15,7 +15,7 @@
     "about": {
         "title":"O nama",
         "title2":"Vizija",
-        "text1":"DRS je tim strastvenih inženjera koji vole razvijati nove, inovativne proizvode. Nudimo razne digitalne usluge, od izrade jednostavnijih aplikacija pa do kompleksnijih softvera. Ako ste zainteresirani za suradnju, slobodno nas kontaktirajte!",
+        "text1":"DRS je tim strastvenih inženjera koji vole razvijati nove, inovativne proizvode. Nudimo razne digitalne usluge, od izrade jednostavnijih aplikacija pa do kompleksnijih softvera. Ako ste zainteresirani za suradnju, neki od naših proizvoda ili partnerstvo, slobodno nas kontaktirajte!",
         "usluge_subtitle":"Naše usluge",
         "usluge1":"Razvoj web aplikacija",
         "usluge2":"Razvoj dekstop aplikacija",
@@ -25,8 +25,9 @@
         "usluge6":"Izrada web stranica",
         "usluge7":"Podrška i održavanje softvera",
         "usluge8":"Itd.",
+        "usluge9":"Itd.",
         "usluge_subtitle2":"TEHNOLOGIJE",
-        "text3":"Naša vizija razvoja poslovanja je u dizajniranju digitalnih proizvoda s jasnim ciljem donošenja eksponencijalne dodatne vrijednosti našim klijentima. U budućnosti se također planiramo proširiti na područje industrijske automatizacije i robotike, s ciljem kombiniranja automatizacije s rastućim web tehnologijama."
+        "text3":"Naša vizija razvoja poslovanja je u dizajniranju digitalnih proizvoda s jasnim ciljem donošenja dodatne vrijednosti našim klijentima. U budućnosti planiramo proširiti naš portfolio usluga na IoT, robotiku i automatizaciju. Cilj je približiti moderne tehnologije onima koji nisu niti svjesni da ih trebaju!"
     },
 
 
@@ -46,7 +47,7 @@
       },
       "damian": {
         "tech1":"Inženjer mehatronike i robotike",
-        "tech2":"Zainteresiran za industrijsku robotiku, glavni interes vidi u digitalnoj transformaciji proizvodnih tvrtka",
+        "tech2":"Zainteresiran za industrijsku robotiku, glavni interes vidi u digitalnoj transformaciji proizvodnih kompanija",
         "tech3":"Primarno prodručje: voditelj projekata i python programer",
         "tech4":"Python desktop aplikacije",
         "tech5":"Django web aplikacije",
