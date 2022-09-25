@@ -104,6 +104,22 @@
           "bullet8":"potpuno prilagodljiv softver za bilo koji dentalni laboratorij",
           "bullet9":"Itd.",
           "button":"Saznajte više!"
+        },
+
+        "FLUX":{
+          "subtitle":"Softver za upravljanje proizvodnjom, projektima i servisima",
+          "bullet1":"planiranje proizvodnje",
+          "bullet2":"praćenje proizvodnog procesa u realnom vremenu",
+          "bullet3":"izračunavanje proizvodnih normi",
+          "bullet4":"praćenje nabavnog lanca",
+          "bullet5":"izračunavanje potreba i troškova sirovina",
+          "bullet6":"kalkulacije profitabilnosti radnih naloga",
+          "bullet7":"upravljanje projektima",
+          "bullet8":"praćenje utrošenog vremena i rada na projektima",
+          "bullet9":"upravljanje zadacima, praćenje progresa svakog projekta",
+          "bullet10":"radni nalozi za servis - upravljanje i praćenje",
+          "bullet11":"Itd.",
+          "button":"Saznajte više!"
         }
     },
 

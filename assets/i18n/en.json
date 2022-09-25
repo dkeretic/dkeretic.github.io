@@ -102,6 +102,22 @@
           "bullet8":"fully customizable software to any dental lab",
           "bullet9":"Etc.",
           "button":"Find out more!"
+        },
+
+        "FLUX":{
+          "subtitle":"Software for managing production, projects and services",
+          "bullet1":"production planning",
+          "bullet2":"tracking manufacturing processes in real-time",
+          "bullet3":"production norms calculations",
+          "bullet4":"supply chain monitoring",
+          "bullet5":"calculations of raw materials needs and costs",
+          "bullet6":"work orders profitability calculations",
+          "bullet7":"project management",
+          "bullet8":"tracking time and costs on each project",
+          "bullet9":"managing assingments, tracking project progress",
+          "bullet10":"work orders for services - managing and tracking",
+          "bullet11":"Etc.",
+          "button":"Find out more!"
         }
     },
 
