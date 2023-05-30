@@ -135,6 +135,20 @@
           "bullet9":"Analize dobavljača i klijenata",
           "bullet10":"Itd.",
           "button":"Saznajte više!"
+        },
+
+        "ANTON":{
+          "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladišten",
+          "bullet1":"Planiranje i praćenje proizvodnje",
+          "bullet2":"Praćenje proizvodnje u realnom vremenu",
+          "bullet3":"Kalkulacije efikasnosti radnika",
+          "bullet4":"Praćenje lanca nabave",
+          "bullet5":"Kalkulacije potreba i cijena sirovina",
+          "bullet6":"Kalkulacije isplativosti radnih naloga",
+          "bullet7":"Upravljanje skladišten",
+          "bullet8":"Kalkulacije dobavljača",
+          "bullet9":"Itd.",
+          "button":"Saznajte više!"
         }
     },
 
