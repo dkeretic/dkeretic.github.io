@@ -133,6 +133,20 @@
           "bullet9":"customers and suppliers analyses",
           "bullet10":"Etc.",
           "button":"Find out more!"
+        },
+
+        "ANTON":{
+          "subtitle":"Software for managing production, warehouse and supply chain",
+          "bullet1":"production planning and monitoring",
+          "bullet2":"tracking manufacturing processes in real-time",
+          "bullet3":"workers efficiency calculations",
+          "bullet4":"supply chain monitoring",
+          "bullet5":"calculations of raw materials needs and costs",
+          "bullet6":"work orders profitability calculations",
+          "bullet7":"warehouse management",
+          "bullet8":"suppy chain calculations",
+          "bullet9":"Etc.",
+          "button":"Find out more!"
         }
     },
 
