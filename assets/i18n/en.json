@@ -147,6 +147,21 @@
           "bullet8":"suppy chain calculations",
           "bullet9":"Etc.",
           "button":"Find out more!"
+        },
+
+        "2G":{
+          "subtitle":"Software for managing production, supply chain and warehouse",
+          "bullet1":"production management",
+          "bullet2":"work orders, tasks, products",
+          "bullet3":"articles datasheets, informations, etc.",
+          "bullet4":"warehouse management",
+          "bullet5":"tracking articles stock, minimum quantities, amount ordered, etc",
+          "bullet6":"products costs calculations",
+          "bullet7":"MRP for managing suppliers and orders",
+          "bullet8":"integration with MS Excel",
+          "bullet9":"customers and suppliers analyses",
+          "bullet10":"Etc.",
+          "button":"Find out more!"
         }
     },
 

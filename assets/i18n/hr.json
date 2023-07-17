@@ -149,6 +149,21 @@
           "bullet8":"Kalkulacije dobavljača",
           "bullet9":"Itd.",
           "button":"Saznajte više!"
+        },
+
+        "2G":{
+          "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladištem",
+          "bullet1":"Vođenje proizvodnje",
+          "bullet2":"Radni nalozi, zadaci, proizvodi",
+          "bullet3":"Sastavnice i informacije o artiklima",
+          "bullet4":"Vođenje skladišta",
+          "bullet5":"Praćenje zaliha, minimalnih količina, naručenih količina, itd.",
+          "bullet6":"Kalkulacije troškova proizvoda",
+          "bullet7":"MRP za upravljanje narudžbama i dobavljačima",
+          "bullet8":"Integracija sa MS Excel",
+          "bullet9":"Analize dobavljača i klijenata",
+          "bullet10":"Itd.",
+          "button":"Saznajte više!"
         }
     },
 
