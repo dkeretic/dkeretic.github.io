@@ -1,15 +1,17 @@
 {
     "home": {
         "welcome":"Dobrodošli",
-        "subtitle":"Saznajte više o nama!"
+        "subtitle":"Saznajte više o nama!",
+        "subtitle2":"Bacite oko na naše proizvode!"
     },
 
     "header": {
         "subtitle1":"Početna",
         "subtitle2":"O nama",
         "subtitle3":"Tim",
-        "subtitle4":"Projekti",
-        "subtitle5":"Kontakt"
+        "subtitle4":"Proizvodi",
+        "subtitle5":"Klijenti",
+        "subtitle6":"Kontakt"
     },
 
     "about": {
@@ -27,7 +29,11 @@
         "usluge8":"Itd.",
         "usluge9":"Itd.",
         "usluge_subtitle2":"TEHNOLOGIJE",
-        "text3":"Naša vizija razvoja poslovanja je u dizajniranju digitalnih proizvoda s jasnim ciljem donošenja dodatne vrijednosti našim klijentima. U budućnosti planiramo proširiti naš portfolio usluga na IoT, robotiku i automatizaciju. Cilj je približiti moderne tehnologije onima koji nisu niti svjesni da ih trebaju!"
+        "text3":"Naša vizija razvoja poslovanja je u dizajniranju digitalnih proizvoda s jasnim ciljem donošenja dodatne vrijednosti našim klijentima. U budućnosti planiramo proširiti naš portfolio usluga na IoT, robotiku i automatizaciju. Cilj je približiti moderne tehnologije onima koji nisu niti svjesni da ih trebaju!",
+        "subtitle1":"Upoznajte naš tim!",
+        "subtitle2":"Bacite oko na naše proizvode!",
+        "subtitle3":"Provjerite naše klijente!",
+        "subtitle4":"Provjerite naše klijente!"
     },
 
 
@@ -57,11 +63,53 @@
       }
     },
 
+    "products": {
+        "title":"Proizvodi",
+        "text1":"Naša dva glavna proizvoda su",
+        "text11":"i",
+        "text111":"Radom u područjima vođenja projekata i upravljanja proizvodnjom, smatrali smo da postojećim rješenjima nedostaje inovacije i efikasnosti za ispunjenje jedinstvenih potreba projektno usmjerenih tvrtki te malih i srednjih proizvodnih poduzeća. Naš cilj bio je napraviti naša rješenja što jednostavnijima, izbjegavajući nepotrebne funkcionalnosti, osiguravajući jasnost i jednostavnost korištenja. Oba rješenja su prilagodljiva i skalabilna prema vašim potrebama.",
+
+        "prod1":"DRS PROJECTS",
+        "prod2":"DRS PRODUCTION",
+
+        "usluge0":"Softver za upravljanje projektno-orijentiranih poduzeća",
+        "usluge1":"Web aplikacija",
+        "usluge2":"Pristup preko računala, tableta ili mobitela",
+        "usluge3":"Upravljanje korisnicima, login sustav",
+        "usluge4":"Računovodstvo & Financije",
+        "usluge5":"Project management (zadaci, rokovi, graf vremenskog toka, KAN-BAN ploča sa zadacima, komunikacija, itd.)",
+        "usluge6":"Praćenje radnih sati, troškova, klijenata, itd.",
+        "usluge7":"Sustav upravljanja dokumentima (DMS)",
+        "usluge8":"Brzi unos računa putem OCR skeniranja",
+        "usluge9":"Modul ljudskih resursa (godišnji, putni nalozi, evidencija rada, itd.)",
+        "usluge10":"I još mnogo toga! Prilagodljivo i skalabilno prema Vašim zahtjevima!",
+
+        "button1":"Kliknite za više detalja!",
+        "button2":"Zatražite demo!",
+
+        "usluge20":"Softver za upravljanje malih i sredjih proizvodnih poduzeća",
+        "usluge21":"Web aplikacija",
+        "usluge22":"Pristup preko računala, tableta ili mobitela",
+        "usluge23":"Planiranje i praćenje proizvodnje",
+        "usluge24":"Vođenje radnih naloga",
+        "usluge25":"Praćenje progresa i troškova za svaki nalog",
+        "usluge26":"Kalkulacija potreba sirovih materijala",
+        "usluge27":"Kalkulacije normativa i efikasnosti",
+        "usluge28":"Kao samostalno rješenje ili u interakciji sa ERP-om",
+        "usluge29":"Direktna interakcija sa radnicima u proizvodnji preko računala, tableta ili mobitea",
+        "usluge30":"I još mnogo toga! Prilagodljivo i skalabilno prema Vašim zahtjevima!",
+
+        "button21":"Kliknite za više detalja!",
+        "button22":"Zatražite demo!",
+        "button33":"Kontaktirajte nas!"
+      },
+
 
     "projects": {
         "title":"Projekti",
         "IPC":{
           "subtitle":"Softver za vođenje projektnog ureda",
+          "subtitle2":"Hrvatska",
           "bullet1":"sustav autentifikacije",
           "bullet2":"autorizacija temeljena na dodijeljenim ulogama",
           "bullet3":"upravljanje zaposlenicima",
@@ -78,6 +126,7 @@
 
         "PASTOR":{
           "subtitle":"Softver za praćenje i obradu podataka proizvodnje vatrogasnih aparata",
+          "subtitle2":"Hrvatska",
           "bullet1":"dnevno praćenje proizvodnje",
           "bullet2":"dnevni unosi radnika putem android tableta",
           "bullet3":"nadzor proizvodnje u realnom vremenu",
@@ -94,6 +143,7 @@
 
         "SMILE_DENT":{
           "subtitle":"Softver za vođenje dentalnog laboratorija",
+          "subtitle2":"Hrvatska",
           "bullet1":"upravljanje radnim nalozima",
           "bullet2":"autorizacija temeljena na dodijeljenim ulogama",
           "bullet3":"praćenje proizvodnje na dnevnoj bazi",
@@ -108,6 +158,7 @@
 
         "FLUX":{
           "subtitle":"Softver za upravljanje proizvodnjom, projektima i servisima",
+          "subtitle2":"Srbija",
           "bullet1":"planiranje proizvodnje",
           "bullet2":"praćenje proizvodnog procesa u realnom vremenu",
           "bullet3":"izračunavanje proizvodnih normi",
@@ -124,6 +175,7 @@
 
         "PECHO":{
           "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladištem",
+          "subtitle2":"Hrvatska",
           "bullet1":"Vođenje proizvodnje",
           "bullet2":"Radni nalozi, zadaci, proizvodi",
           "bullet3":"Sastavnice i informacije o artiklima",
@@ -139,6 +191,7 @@
 
         "ANTON":{
           "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladišten",
+          "subtitle2":"Austrija/BiH",
           "bullet1":"Planiranje i praćenje proizvodnje",
           "bullet2":"Praćenje proizvodnje u realnom vremenu",
           "bullet3":"Kalkulacije efikasnosti radnika",
@@ -153,6 +206,7 @@
 
         "2G":{
           "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladištem",
+          "subtitle2":"BiH",
           "bullet1":"Vođenje proizvodnje",
           "bullet2":"Radni nalozi, zadaci, proizvodi",
           "bullet3":"Sastavnice i informacije o artiklima",

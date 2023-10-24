@@ -1,15 +1,17 @@
 {
     "home": {
         "welcome":"Welcome",
-        "subtitle":"Find out more about us!"
+        "subtitle":"Find out more about us!",
+        "subtitle2":"Check our products!"
     },
 
     "header": {
         "subtitle1":"Home",
         "subtitle2":"About",
         "subtitle3":"Team",
-        "subtitle4":"Projects",
-        "subtitle5":"Contact"
+        "subtitle4":"Products",
+        "subtitle5":"Clients",
+        "subtitle6":"Contact"
     },
 
     "about": {
@@ -27,7 +29,11 @@
         "usluge8":"Etc.",
         "usluge9":"Etc.",
         "usluge_subtitle2":"TECHNOLOGY",
-        "text3":"Our mission is to develop business in designing digital products with a heavy focus on delivering additional value to our clients. In the future, we plan to expand our portfolio of services to IoT, robotics, and automation. The goal is to bring modern technologies closer to those who don't even know they need them!"
+        "text3":"Our mission is to develop business in designing digital products with a heavy focus on delivering additional value to our clients. In the future, we plan to expand our portfolio of services to IoT, robotics, and automation. The goal is to bring modern technologies closer to those who don't even know they need them!",
+        "subtitle1":"Meet our team!",
+        "subtitle2":"Check our products!",
+        "subtitle3":"See our clients!",
+        "subtitle4":"Check our clients!"
     },
 
 
@@ -55,11 +61,51 @@
       }
     },
 
+    "products": {
+        "title":"Products",
+        "text1":"Our two main products are",
+        "text11":"and",
+        "text111":"By working in the fields of project management and manufacturing, we believed that existing solutions lacked the innovation and efficiency required to meet the unique needs of project-oriented companies and small to medium-sized production businesses. Our aim was to make our solutions as simple as possible, avoiding unnecessary features and ensuring clarity and ease of use. Both solutions are customizable and scalable to your needs.",
+        "prod1":"DRS PROJECTS",
+        "prod2":"DRS PRODUCTION",
+
+        "usluge0":"Management software for project-oriented companies",
+        "usluge1":"Web application",
+        "usluge2":"Access via computers, tablets, phones",
+        "usluge3":"User management & login system",
+        "usluge4":"Accounting & Finances",
+        "usluge5":"Project management (tasks, deadlines, visual timelines, KAN-BAN task board, communication, etc.)",
+        "usluge6":"Tracking work hours, expenses, clients, etc.",
+        "usluge7":"Document management system (DMS)",
+        "usluge8":"Rapid entry of invoices through OCR scanning",
+        "usluge9":"HR module (vacations, business trips, work evidence, etc.)",
+        "usluge10":"And many more! Customizable and scalable depending on your needs!",
+
+        "button1":"Click for details!",
+        "button2":"Request demo!",
+
+        "usluge20":"Management software for small and medium production companies",
+        "usluge21":"Web application",
+        "usluge22":"Access via computers, tablets, phones",
+        "usluge23":"Production planning & tracking",
+        "usluge24":"Work order Management",
+        "usluge25":"Tracking progress & expenses on every work order",
+        "usluge26":"Calculating raw materials necessities",
+        "usluge27":"Calculating cycle times & efficiency",
+        "usluge28":"As a standalone solution or integrated with ERP",
+        "usluge29":"Direct interaction with factory workers through computers, tablets or phones",
+        "usluge30":"And many more! Customizable and scalable depending on your needs!",
+
+        "button21":"Click for details!",
+        "button22":"Request demo!",
+        "button33":"Let's Talk!"
+    },
 
     "projects": {
         "title":"Projects",
         "IPC":{
           "subtitle":"Project office management software",
+          "subtitle2":"Croatia",
           "bullet1":"authentication system",
           "bullet2":"role based authorization",
           "bullet3":"user management",
@@ -76,6 +122,7 @@
 
         "PASTOR":{
           "subtitle":"Monitoring and data processing software for fire extinguishers manufacturing process",
+          "subtitle2":"Croatia",
           "bullet1":"daily production tracking",
           "bullet2":"workers daily input via android tablets",
           "bullet3":"real-time production monitoring",
@@ -92,6 +139,7 @@
 
         "SMILE_DENT":{
           "subtitle":"Dental lab business management software",
+          "subtitle2":"Croatia",
           "bullet1":"work orders management",
           "bullet2":"role based authorization",
           "bullet3":"tracking production on daily-basis",
@@ -106,6 +154,7 @@
 
         "FLUX":{
           "subtitle":"Software for managing production, projects and services",
+          "subtitle2":"Serbia",
           "bullet1":"production planning",
           "bullet2":"tracking manufacturing processes in real-time",
           "bullet3":"production norms calculations",
@@ -122,6 +171,7 @@
 
         "PECHO":{
           "subtitle":"Software for managing production, supply chain and warehouse",
+          "subtitle2":"Croatia",
           "bullet1":"production management",
           "bullet2":"work orders, tasks, products",
           "bullet3":"articles datasheets, informations, etc.",
@@ -137,6 +187,7 @@
 
         "ANTON":{
           "subtitle":"Software for managing production, warehouse and supply chain",
+          "subtitle2":"Austria/Bosnia",
           "bullet1":"production planning and monitoring",
           "bullet2":"tracking manufacturing processes in real-time",
           "bullet3":"workers efficiency calculations",
@@ -151,6 +202,7 @@
 
         "2G":{
           "subtitle":"Software for managing production, supply chain and warehouse",
+          "subtitle2":"Bosnia",
           "bullet1":"production management",
           "bullet2":"work orders, tasks, products",
           "bullet3":"articles datasheets, informations, etc.",
