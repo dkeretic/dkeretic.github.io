@@ -120,6 +120,17 @@
           "button":"Find out more!"
         },
 
+        "Hidro":{
+          "subtitle":"Project planning and management software",
+          "bullet6":"resource planning"
+        },
+
+        "Windor":{
+          "subtitle":"Software for managing production, warehouse and supply chain",
+          "bullet4":"web application",
+          "bullet7":"warehouse management"
+        },
+
         "PASTOR":{
           "subtitle":"Monitoring and data processing software for fire extinguishers manufacturing process",
           "subtitle2":"Croatia",

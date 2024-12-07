@@ -124,6 +124,17 @@
           "button":"Saznajte više!"
         },
 
+        "Hidro":{
+          "subtitle":"Softver za planiranje i upravljanje projektima",
+          "bullet6":"planiranje resursa"
+        },
+
+        "Windor":{
+          "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladišten",
+          "bullet4":"web aplikacija",
+          "bullet7":"upravljanje skladištem"
+        },
+
         "PASTOR":{
           "subtitle":"Softver za praćenje i obradu podataka proizvodnje vatrogasnih aparata",
           "subtitle2":"Hrvatska",
