@@ -1,245 +1,236 @@
 {
     "home": {
-        "welcome":"Dobrodošli",
-        "subtitle":"Saznajte više o nama!",
-        "subtitle2":"Bacite oko na naše proizvode!"
+        "welcome": "Dobrodošli",
+        "subtitle": "Saznajte više o nama",
+        "subtitle2": "Istražite naše proizvode"
     },
 
     "header": {
-        "subtitle1":"Početna",
-        "subtitle2":"O nama",
-        "subtitle3":"Tim",
-        "subtitle4":"Proizvodi",
-        "subtitle5":"Klijenti",
-        "subtitle6":"Kontakt"
+        "subtitle1": "Početna",
+        "subtitle2": "O nama",
+        "subtitle3": "Tim",
+        "subtitle4": "Proizvodi",
+        "subtitle5": "Klijenti",
+        "subtitle6": "Kontakt"
     },
 
     "about": {
-        "title":"O nama",
-        "title2":"Vizija",
-        "text1":"DRS je tim strastvenih inženjera koji vole razvijati nove, inovativne proizvode. Nudimo razne digitalne usluge, od izrade jednostavnijih aplikacija pa do kompleksnijih softvera. Ako ste zainteresirani za suradnju, neki od naših proizvoda ili partnerstvo, slobodno nas kontaktirajte!",
-        "usluge_subtitle":"Naše usluge",
-        "usluge1":"Razvoj web aplikacija",
-        "usluge2":"Razvoj dekstop aplikacija",
-        "usluge3":"Konfiguracija i održavanje baza podataka",
-        "usluge4":"Softverska obrada podataka",
-        "usluge5":"Cloud računarstvo",
-        "usluge6":"Izrada web stranica",
-        "usluge7":"Podrška i održavanje softvera",
-        "usluge8":"Itd.",
-        "usluge9":"Itd.",
-        "usluge_subtitle2":"TEHNOLOGIJE",
-        "text3":"Naša vizija razvoja poslovanja je u dizajniranju digitalnih proizvoda s jasnim ciljem donošenja dodatne vrijednosti našim klijentima. U budućnosti planiramo proširiti naš portfolio usluga na IoT, robotiku i automatizaciju. Cilj je približiti moderne tehnologije onima koji nisu niti svjesni da ih trebaju!",
-        "subtitle1":"Upoznajte naš tim!",
-        "subtitle2":"Bacite oko na naše proizvode!",
-        "subtitle3":"Provjerite naše klijente!",
-        "subtitle4":"Provjerite naše klijente!"
+        "title": "O nama",
+        "title2": "Vizija",
+        "text1": "DRS je tim strastvenih inženjera koji vole razvijati nove, inovativne proizvode. Nudimo digitalne usluge, od izrade jednostavnijih aplikacija pa do složenih enterprise web sustava. Ako ste zainteresirani za suradnju, neki od naših proizvoda ili partnerstvo, slobodno nas kontaktirajte!",
+        "usluge_subtitle": "Naše usluge",
+        "usluge1": "Razvoj web aplikacija",
+        "usluge2": "Razvoj desktop aplikacija",
+        "usluge3": "Razvoj mobilnih aplikacija",
+        "usluge4": "Upravljanje bazama podataka",
+        "usluge5": "Obrada i analiza podataka",
+        "usluge6": "Cloud računarstvo",
+        "usluge7": "IoT i automatizacija",
+        "usluge8": "Softverska podrška i savjetovanje",
+        "usluge_subtitle2": "Tehnologije",
+        "text3": "Naša misija je razvijati digitalne proizvode koji donose mjerljivu vrijednost klijentima. U budućnosti planiramo proširiti portfolio na IoT, robotiku i industrijsku automatizaciju — s ciljem da moderne tehnologije učinimo dostupnima svim tvrtkama.",
+        "subtitle1": "Upoznajte naš tim",
+        "subtitle2": "Istražite naše proizvode",
+        "subtitle3": "Pogledajte naše klijente",
+        "subtitle4": "Pogledajte naše klijente"
     },
-
-
-
 
     "team": {
-      "title": "TIM",
-      "mateo": {
-        "tech1":"Softverski inženjer",
-        "tech2":"Entuzijast za moderne IT tehnologije, iskusan u izradi kompleksnih web sustava",
-        "tech3":"Primarno područje: izrada web aplikacija",
-        "tech4":"Java, Scala",
-        "tech5":"Javascript, Typescript, Html, Css",
-        "tech6":"Spring, Spring Boot, Angular, React",
-        "tech7":"Upravljanje bazama podataka, SQL",
-        "tech8":"DevOps administracija, itd."
-      },
-      "damian": {
-        "tech1":"Inženjer mehatronike i robotike",
-        "tech2":"Zainteresiran za industrijsku robotiku, glavni interes vidi u digitalnoj transformaciji proizvodnih kompanija",
-        "tech3":"Primarno prodručje: voditelj projekata i python programer",
-        "tech4":"Python desktop aplikacije",
-        "tech5":"Django web aplikacije",
-        "tech6":"Kivy android aplikacije",
-        "tech7":"SQL baze podataka",
-        "tech8":"Web stranice, itd."
-      }
-    },
-
-    "products": {
-        "title":"Proizvodi",
-        "text1":"Naša dva glavna proizvoda su",
-        "text11":"i",
-        "text111":"Radom u područjima vođenja projekata i upravljanja proizvodnjom, smatrali smo da postojećim rješenjima nedostaje inovacije i efikasnosti za ispunjenje jedinstvenih potreba projektno usmjerenih tvrtki te malih i srednjih proizvodnih poduzeća. Naš cilj bio je napraviti naša rješenja što jednostavnijima, izbjegavajući nepotrebne funkcionalnosti, osiguravajući jasnost i jednostavnost korištenja. Oba rješenja su prilagodljiva i skalabilna prema vašim potrebama.",
-
-        "prod1":"DRS PROJECTS",
-        "prod2":"DRS PRODUCTION",
-
-        "usluge0":"Softver za upravljanje projektno-orijentiranih poduzeća",
-        "usluge1":"Web aplikacija",
-        "usluge2":"Pristup preko računala, tableta ili mobitela",
-        "usluge3":"Upravljanje korisnicima, login sustav",
-        "usluge4":"Računovodstvo & Financije",
-        "usluge5":"Project management (zadaci, rokovi, graf vremenskog toka, KAN-BAN ploča sa zadacima, komunikacija, itd.)",
-        "usluge6":"Praćenje radnih sati, troškova, klijenata, itd.",
-        "usluge7":"Sustav upravljanja dokumentima (DMS)",
-        "usluge8":"Brzi unos računa putem OCR skeniranja",
-        "usluge9":"Modul ljudskih resursa (godišnji, putni nalozi, evidencija rada, itd.)",
-        "usluge10":"I još mnogo toga! Prilagodljivo i skalabilno prema Vašim zahtjevima!",
-
-        "button1":"Kliknite za više detalja!",
-        "button2":"Zatražite demo!",
-
-        "usluge20":"Softver za upravljanje malih i sredjih proizvodnih poduzeća",
-        "usluge21":"Web aplikacija",
-        "usluge22":"Pristup preko računala, tableta ili mobitela",
-        "usluge23":"Planiranje i praćenje proizvodnje",
-        "usluge24":"Vođenje radnih naloga",
-        "usluge25":"Praćenje progresa i troškova za svaki nalog",
-        "usluge26":"Kalkulacija potreba sirovih materijala",
-        "usluge27":"Kalkulacije normativa i efikasnosti",
-        "usluge28":"Kao samostalno rješenje ili u interakciji sa ERP-om",
-        "usluge29":"Direktna interakcija sa radnicima u proizvodnji preko računala, tableta ili mobitea",
-        "usluge30":"I još mnogo toga! Prilagodljivo i skalabilno prema Vašim zahtjevima!",
-
-        "button21":"Kliknite za više detalja!",
-        "button22":"Zatražite demo!",
-        "button33":"Kontaktirajte nas!"
-      },
-
-
-    "projects": {
-        "title":"Projekti",
-        "IPC":{
-          "subtitle":"Softver za vođenje projektnog ureda",
-          "subtitle2":"Hrvatska",
-          "bullet1":"sustav autentifikacije",
-          "bullet2":"autorizacija temeljena na dodijeljenim ulogama",
-          "bullet3":"upravljanje zaposlenicima",
-          "bullet4":"upravljanje projektima",
-          "bullet5":"upravljanje financijama",
-          "bullet6":"analiza radnika (efikasnost, utrošeno vrijeme)",
-          "bullet7":"upravljanje zahtjevima za GO i putnim nalozima",
-          "bullet8":"interna komunikacija na projektima",
-          "bullet9":"sustav obavijesti",
-          "bullet10":"user-friendly korisničko sučelje",
-          "bullet11":"Itd.",
-          "button":"Saznajte više!"
+        "title": "Tim",
+        "mateo": {
+            "name": "Mateo Keretić",
+            "degree": "bacc.ing.inf",
+            "tech1": "Softverski inženjer",
+            "tech2": "Full-stack inženjer specijaliziran za enterprise web sustave, s fokusom na backend arhitekturu i moderne frontend frameworke.",
+            "tech3": "Full-stack razvoj web aplikacija"
         },
-
-        "Hidro":{
-          "subtitle":"Softver za planiranje i upravljanje projektima",
-          "bullet6":"planiranje resursa"
-        },
-
-        "Windor":{
-          "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladišten",
-          "bullet4":"web aplikacija",
-          "bullet7":"upravljanje skladištem"
-        },
-
-        "PASTOR":{
-          "subtitle":"Softver za praćenje i obradu podataka proizvodnje vatrogasnih aparata",
-          "subtitle2":"Hrvatska",
-          "bullet1":"dnevno praćenje proizvodnje",
-          "bullet2":"dnevni unosi radnika putem android tableta",
-          "bullet3":"nadzor proizvodnje u realnom vremenu",
-          "bullet4":"desktop aplikacija i mobilna android aplikacija za pristup podacima",
-          "bullet5":"relevantni podaci o stanju proizvodnje (efikasnost, normativi, kapacitet itd.)",
-          "bullet6":"analiza kontrole kvalitete",
-          "bullet7":"integracija s softverom za planiranje proizvodnje",
-          "bullet8":"praćenje nabavnog lanca i izračun potrebnih sirovina za proizvodnju",
-          "bullet9":"praćenje troškova sirovina za izradu proizvoda",
-          "bullet10":"izračun efikasnosti isporuka radnih naloga",
-          "bullet11":"Itd.",
-          "button":"Saznajte više!"
-        },
-
-        "SMILE_DENT":{
-          "subtitle":"Softver za vođenje dentalnog laboratorija",
-          "subtitle2":"Hrvatska",
-          "bullet1":"upravljanje radnim nalozima",
-          "bullet2":"autorizacija temeljena na dodijeljenim ulogama",
-          "bullet3":"praćenje proizvodnje na dnevnoj bazi",
-          "bullet4":"upravljanje financijama",
-          "bullet5":"obračun i upravljanje plaćama prema odrađenim komadima",
-          "bullet6":"praćenje sirovina",
-          "bullet7":"upravljanje lancem nabave",
-          "bullet8":"potpuno prilagodljiv softver za bilo koji dentalni laboratorij",
-          "bullet9":"Itd.",
-          "button":"Saznajte više!"
-        },
-
-        "FLUX":{
-          "subtitle":"Softver za upravljanje proizvodnjom, projektima i servisima",
-          "subtitle2":"Srbija",
-          "bullet1":"planiranje proizvodnje",
-          "bullet2":"praćenje proizvodnog procesa u realnom vremenu",
-          "bullet3":"izračunavanje proizvodnih normi",
-          "bullet4":"praćenje nabavnog lanca",
-          "bullet5":"izračunavanje potreba i troškova sirovina",
-          "bullet6":"kalkulacije profitabilnosti radnih naloga",
-          "bullet7":"upravljanje projektima",
-          "bullet8":"praćenje utrošenog vremena i rada na projektima",
-          "bullet9":"upravljanje zadacima, praćenje progresa svakog projekta",
-          "bullet10":"radni nalozi za servis - upravljanje i praćenje",
-          "bullet11":"Itd.",
-          "button":"Saznajte više!"
-        },
-
-        "PECHO":{
-          "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladištem",
-          "subtitle2":"Hrvatska",
-          "bullet1":"Vođenje proizvodnje",
-          "bullet2":"Radni nalozi, zadaci, proizvodi",
-          "bullet3":"Sastavnice i informacije o artiklima",
-          "bullet4":"Vođenje skladišta",
-          "bullet5":"Praćenje zaliha, minimalnih količina, naručenih količina, itd.",
-          "bullet6":"Kalkulacije troškova proizvoda",
-          "bullet7":"MRP za upravljanje narudžbama i dobavljačima",
-          "bullet8":"Integracija sa MS Excel",
-          "bullet9":"Analize dobavljača i klijenata",
-          "bullet10":"Itd.",
-          "button":"Saznajte više!"
-        },
-
-        "ANTON":{
-          "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladišten",
-          "subtitle2":"Austrija/BiH",
-          "bullet1":"Planiranje i praćenje proizvodnje",
-          "bullet2":"Praćenje proizvodnje u realnom vremenu",
-          "bullet3":"Kalkulacije efikasnosti radnika",
-          "bullet4":"Praćenje lanca nabave",
-          "bullet5":"Kalkulacije potreba i cijena sirovina",
-          "bullet6":"Kalkulacije isplativosti radnih naloga",
-          "bullet7":"Upravljanje skladišten",
-          "bullet8":"Kalkulacije dobavljača",
-          "bullet9":"Itd.",
-          "button":"Saznajte više!"
-        },
-
-        "2G":{
-          "subtitle":"Softver za upravljanje proizvodnjom, nabavom i skladištem",
-          "subtitle2":"BiH",
-          "bullet1":"Vođenje proizvodnje",
-          "bullet2":"Radni nalozi, zadaci, proizvodi",
-          "bullet3":"Sastavnice i informacije o artiklima",
-          "bullet4":"Vođenje skladišta",
-          "bullet5":"Praćenje zaliha, minimalnih količina, naručenih količina, itd.",
-          "bullet6":"Kalkulacije troškova proizvoda",
-          "bullet7":"MRP za upravljanje narudžbama i dobavljačima",
-          "bullet8":"Integracija sa MS Excel",
-          "bullet9":"Analize dobavljača i klijenata",
-          "bullet10":"Itd.",
-          "button":"Saznajte više!"
+        "damian": {
+            "name": "Damian Keretić",
+            "degree": "mag.ing.mech",
+            "tech1": "Inženjer mehatronike i robotike",
+            "tech2": "Inženjer mehatronike i robotike koji vodi digitalnu transformaciju proizvodnih tvrtki kroz prilagođeni softver i automatizaciju procesa.",
+            "tech3": "Upravljanje projektima i Python razvoj"
         }
     },
 
+    "products": {
+        "title": "Proizvodi",
+        "text1": "Naša flagship rješenja su",
+        "text11": "i",
+        "text111": "Radeći s projektno orijentiranim tvrtkama i malim te srednje velikim proizvođačima, prepoznali smo jasnu potrebu: postojeća rješenja nedostaju jednostavnosti i preciznosti koju moderno poslovanje zahtijeva. Oba proizvoda su u potpunosti prilagodljiva i skalabilna prema vašim potrebama.",
+        "prod1": "DRS PROJECTS",
+        "prod2": "DRS PRODUCTION",
+
+        "usluge0": "Softver za upravljanje projektno orijentiranih poduzeća",
+        "usluge1": "Web aplikacija",
+        "usluge2": "Pristup putem računala, tableta i mobitela",
+        "usluge3": "Upravljanje korisnicima i autentifikacija",
+        "usluge4": "Računovodstvo i financije",
+        "usluge5": "Upravljanje projektima — zadaci, rokovi, Kanban ploča, vizualni vremenski prikazi i komunikacija",
+        "usluge6": "Praćenje radnih sati, troškova i klijenata",
+        "usluge7": "Sustav upravljanja dokumentima (DMS)",
+        "usluge8": "Brzi unos računa putem OCR skeniranja",
+        "usluge9": "HR modul — godišnji odmori, putni nalozi i evidencija rada",
+        "usluge10": "I još mnogo toga — prilagodljivo i skalabilno prema vašim zahtjevima",
+
+        "button1": "Pregledaj detalje",
+        "button2": "Zatražite demo",
+
+        "usluge20": "Softver za upravljanje malih i srednje velikih proizvodnih poduzeća",
+        "usluge21": "Web aplikacija",
+        "usluge22": "Pristup putem računala, tableta i mobitela",
+        "usluge23": "Planiranje i praćenje proizvodnje",
+        "usluge24": "Upravljanje radnim nalozima",
+        "usluge25": "Praćenje napretka i troškova po radnom nalogu",
+        "usluge26": "Kalkulacija potreba sirovina",
+        "usluge27": "Kalkulacije normativa i efikasnosti",
+        "usluge28": "Samostalno rješenje ili integracija s postojećim ERP-om",
+        "usluge29": "Direktna interakcija s radnicima u proizvodnji putem računala, tableta ili mobitela",
+        "usluge30": "I još mnogo toga — prilagodljivo i skalabilno prema vašim zahtjevima",
+
+        "button21": "Pregledaj detalje",
+        "button22": "Zatražite demo",
+        "button33": "Kontaktirajte nas"
+    },
+
+    "projects": {
+        "title": "Klijenti",
+        "IPC": {
+            "subtitle": "Softver za vođenje projektnog ureda",
+            "subtitle2": "Hrvatska",
+            "bullet1": "Sustav autentifikacije",
+            "bullet2": "Autorizacija temeljena na ulogama",
+            "bullet3": "Upravljanje zaposlenicima",
+            "bullet4": "Upravljanje projektima",
+            "bullet5": "Upravljanje financijama",
+            "bullet6": "Analiza radnika — efikasnost i utrošeno vrijeme",
+            "bullet7": "Upravljanje godišnjim odmorima i putnim nalozima",
+            "bullet8": "Interna komunikacija na projektima",
+            "bullet9": "Sustav obavijesti",
+            "bullet10": "Intuitivno korisničko sučelje",
+            "bullet11": "I više",
+            "button": "Saznajte više"
+        },
+
+        "Hidro": {
+            "subtitle": "Softver za planiranje i upravljanje projektima",
+            "subtitle2": "Hrvatska",
+            "bullet6": "Planiranje resursa",
+            "button": "Saznajte više"
+        },
+
+        "Windor": {
+            "subtitle": "Softver za upravljanje proizvodnjom, nabavom i skladištem",
+            "subtitle2": "Hrvatska",
+            "bullet4": "Web aplikacija",
+            "bullet7": "Upravljanje skladištem",
+            "button": "Saznajte više"
+        },
+
+        "PASTOR": {
+            "subtitle": "Softver za praćenje i obradu podataka proizvodnje vatrogasnih aparata",
+            "subtitle2": "Hrvatska",
+            "bullet1": "Dnevno praćenje proizvodnje",
+            "bullet2": "Dnevni unosi radnika putem Android tableta",
+            "bullet3": "Nadzor proizvodnje u realnom vremenu",
+            "bullet4": "Desktop aplikacija i Android mobilna aplikacija",
+            "bullet5": "Statistike proizvodnje po tipu, periodu ili kupcu",
+            "bullet6": "Analiza kontrole kvalitete",
+            "bullet7": "Integracija sa softverom za planiranje proizvodnje",
+            "bullet8": "Praćenje nabavnog lanca i kalkulacija sirovina",
+            "bullet9": "Praćenje troškova sirovina po proizvodu",
+            "bullet10": "Kalkulacije efikasnosti i isporuka radnih naloga",
+            "bullet11": "I više",
+            "button": "Saznajte više"
+        },
+
+        "SMILE_DENT": {
+            "subtitle": "Softver za vođenje dentalnog laboratorija",
+            "subtitle2": "Hrvatska",
+            "bullet1": "Upravljanje radnim nalozima",
+            "bullet2": "Autorizacija temeljena na ulogama",
+            "bullet3": "Dnevno praćenje proizvodnje",
+            "bullet4": "Upravljanje financijama",
+            "bullet5": "Obračun plaća prema odrađenim komadima",
+            "bullet6": "Praćenje sirovina",
+            "bullet7": "Upravljanje lancem nabave",
+            "bullet8": "Potpuno prilagodljiv softver za bilo koji dentalni laboratorij",
+            "bullet9": "I više",
+            "button": "Saznajte više"
+        },
+
+        "FLUX": {
+            "subtitle": "Softver za upravljanje proizvodnjom, projektima i servisima",
+            "subtitle2": "Srbija",
+            "bullet1": "Planiranje proizvodnje",
+            "bullet2": "Praćenje proizvodnog procesa u realnom vremenu",
+            "bullet3": "Izračunavanje proizvodnih normi",
+            "bullet4": "Praćenje nabavnog lanca",
+            "bullet5": "Kalkulacije potreba i troškova sirovina",
+            "bullet6": "Analiza profitabilnosti radnih naloga",
+            "bullet7": "Upravljanje projektima",
+            "bullet8": "Praćenje utrošenog vremena i troškova po projektu",
+            "bullet9": "Upravljanje zadacima i praćenje napretka projekta",
+            "bullet10": "Upravljanje i praćenje servisnih radnih naloga",
+            "bullet11": "I više",
+            "button": "Saznajte više"
+        },
+
+        "PECHO": {
+            "subtitle": "Softver za upravljanje proizvodnjom, nabavom i skladištem",
+            "subtitle2": "Hrvatska",
+            "bullet1": "Vođenje proizvodnje",
+            "bullet2": "Radni nalozi, zadaci i proizvodi",
+            "bullet3": "Sastavnice i specifikacije artikala",
+            "bullet4": "Vođenje skladišta",
+            "bullet5": "Praćenje zaliha — minimalne količine, naručene količine i više",
+            "bullet6": "Kalkulacije troškova proizvoda",
+            "bullet7": "MRP za upravljanje narudžbama i dobavljačima",
+            "bullet8": "Integracija s MS Excelom",
+            "bullet9": "Analize kupaca i dobavljača",
+            "bullet10": "I više",
+            "button": "Saznajte više"
+        },
+
+        "ANTON": {
+            "subtitle": "Softver za upravljanje proizvodnjom, nabavom i skladištem",
+            "subtitle2": "Austrija / BiH",
+            "bullet1": "Planiranje i praćenje proizvodnje",
+            "bullet2": "Praćenje proizvodnje u realnom vremenu",
+            "bullet3": "Kalkulacije efikasnosti radnika",
+            "bullet4": "Praćenje lanca nabave",
+            "bullet5": "Kalkulacije potreba i cijena sirovina",
+            "bullet6": "Analiza isplativosti radnih naloga",
+            "bullet7": "Upravljanje skladištem",
+            "bullet8": "Kalkulacije dobavljača",
+            "bullet9": "I više",
+            "button": "Saznajte više"
+        },
+
+        "2G": {
+            "subtitle": "Softver za upravljanje proizvodnjom, nabavom i skladištem",
+            "subtitle2": "BiH",
+            "bullet1": "Vođenje proizvodnje",
+            "bullet2": "Radni nalozi, zadaci i proizvodi",
+            "bullet3": "Sastavnice i specifikacije artikala",
+            "bullet4": "Vođenje skladišta",
+            "bullet5": "Praćenje zaliha — minimalne količine, naručene količine i više",
+            "bullet6": "Kalkulacije troškova proizvoda",
+            "bullet7": "MRP za upravljanje narudžbama i dobavljačima",
+            "bullet8": "Integracija s MS Excelom",
+            "bullet9": "Analize kupaca i dobavljača",
+            "bullet10": "I više",
+            "button": "Saznajte više"
+        }
+    },
 
     "contactForm": {
-        "title":"Kontakt",
-        "text1":"Ako ste zainteresirani za naše usluge, više informacija ili bilo kakvu suradnju, kontaktirajte nas putem donjeg obrasca.",
-        "text2":"Digitalizirajmo Vaše poslovanje!",
-        "name":"Ime",
-        "message":"Poruka",
-        "submit":"Pošalji",
-        "country":"Hrvatska"
+        "title": "Kontakt",
+        "text1": "Zainteresirani za naše usluge, proizvode ili suradnju? Javite nam se.",
+        "text2": "Digitalizirajmo vaše poslovanje.",
+        "name": "Ime",
+        "message": "Poruka",
+        "submit": "Pošalji poruku",
+        "country": "Hrvatska"
     }
 }
